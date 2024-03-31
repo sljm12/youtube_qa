@@ -1,0 +1,17 @@
+chromadb==0.4.24
+gradio==3.36.1
+huggingface-hub==0.20.3
+langchain==0.1.9
+langchain-vttsplitter @ git+https://github.com/sljm12/langchain_vttsplitter@6c3c32cfac7f3068ece2441eb704ecd2cf7f4ff3
+openai==1.13.3
+pypdf==4.0.2
+requests==2.31.0
+sentence-transformers==2.5.0
+sentencepiece==0.2.0
+torch==2.2.1+cu118
+torchaudio==2.2.1+cu118
+torchvision==0.17.1+cu118
+tqdm==4.66.2
+transformers @ git+https://github.com/huggingface/transformers.git@c8d98405a8f7b0e5d07391b671dcc61bb9d7bad5
+yt-dlp==2023.12.30
+
